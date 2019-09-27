@@ -1,10 +1,11 @@
-Advanced Machine Learning Specialization on Coursera
-Following imporant projects/assignments as part of Machine Learning listed below :
+Advanced Machine Learning Specialization on Coursera\\
+\\
+Following imporant projects/assignments as part of Machine Learning listed below:\\
 
-	Introduction to Deep Learning :
-	Linear Models with Optimization,Logistis Regression 
-	MNIST digit classification with Keras and Tensorflow
-	Create Own Neural Network
+\item	Introduction to Deep Learning:
+- Linear Models with Optimization,Logistis Regression\\ 
+- MNIST digit classification with Keras and Tensorflow\\
+- Create Own Neural Network\\
 	Fine Tuning Inception V3 architecture for flowers classification 
 	Implement CNN architecture on CIFAR -10 dataset
 	Train autoencoders to apply for face search
