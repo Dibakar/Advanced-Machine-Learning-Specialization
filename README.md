@@ -1,7 +1,7 @@
 **Advanced Machine Learning Specialization on Coursera**
 
 
-**Projects/Assignments (Few selected):**
+**Projects/Assignments (few selected from each course):**
 
 1. **Introduction to Deep Learning:**
    - Developed an image-to-caption model, featuring a CNN for feature extraction (pretrained InceptionV3) from images
